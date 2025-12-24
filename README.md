@@ -1,7 +1,7 @@
 # 🎬 Nvidia Subtitle Burner [V1]
 
 A modern, GPU-accelerated batch subtitle burner with a sleek dark/light mode GUI. Built with Python and FFmpeg, designed for speed and ease of use.
-
+![App Screenshots](https://raw.githubusercontent.com/sudhirmshr17-cyber/Nvidia-Subtitle-Burner/refs/heads/main/Screenshot%202025-12-24%20122550.png)
 ## ✨ Features
 * **🚀 GPU Acceleration:** Uses NVIDIA NVENC (HEVC) for blazing fast encoding.
 * **🎨 Modern GUI:** CustomTkinter interface with smooth Dark/Light mode switching.
@@ -48,4 +48,5 @@ Contributions are welcome! Feel free to fork this repository and submit a Pull R
 This project is open-source and available under the MIT License.
 
 ---
+
 **Developer:** Sudhir Kumar Mishra ❤️
