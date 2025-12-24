@@ -433,7 +433,7 @@ class subtitle_burner(BaseClass):
 
     def process_queue(self):
         settings = self.get_settings()
-        output_dir = os.path.join(os.path.dirname(self.queue_items[0].filepath), "Output_V3")
+        output_dir = os.path.join(os.path.dirname(self.queue_items[0].filepath), "Output")
         if not os.path.exists(output_dir): os.makedirs(output_dir)
 
         style = f"FontName={settings['font']},Fontsize={settings['size']},PrimaryColour={settings['color']},Bold=1,Outline=2,Shadow=1,MarginV=25"
@@ -592,4 +592,5 @@ class subtitle_burner(BaseClass):
 
 if __name__ == "__main__":
     app = subtitle_burner()
+
     app.mainloop()
