@@ -34,6 +34,12 @@ A modern, GPU-accelerated batch subtitle burner with a sleek dark/light mode GUI
     ```bash
     python subtitle_burner.py
     ```
+## 📥 Download
+https://github.com/sudhirmshr17-cyber/Nvidia-Subtitle-Burner/releases/
+
+⚠️ Requirement: This software requires FFmpeg.
+1. Download ffmpeg.exe.
+2. Place it in the same folder as this application OR install it to your system path.
 
 ## 🎮 How to Use
 1.  **Import Media:** Drag and drop video files (`.mp4`, `.mkv`) or folders into the top bar.
@@ -50,3 +56,4 @@ This project is open-source and available under the MIT License.
 ---
 
 **Developer:** Sudhir Kumar Mishra ❤️
+
